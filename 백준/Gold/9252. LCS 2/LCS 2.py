@@ -1,3 +1,7 @@
+import sys
+
+input = sys.stdin.readline
+
 S1 = list(input().strip())
 S2 = list(input().strip())
 
